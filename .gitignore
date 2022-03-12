@@ -1,6 +1,2 @@
-coco_dataset/
-detectron2/
-images/
-model_weights/
-source_buffers/
-.ipynb_checkpoints/
+weights/
+notebooks/.ipynb_checkpoints/
